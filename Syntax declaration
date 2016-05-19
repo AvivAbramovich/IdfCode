@@ -1,0 +1,51 @@
+הקשב המפקד דני הרב״ט : טוראי אביב, טוראי דור	     bool danny‪(‬bool aviv‪,‬ bool dor‪)‬
+צ									     	    ‪{‬
+
+ כן המפקד							      return true
+צ									     	    ‪}‬
+	
+הקשב המפקד רמי הרב״ט : 							byte Rami‪()‬
+צ										  ‪{‬
+ 
+ יוסי הוא החנט״ר							return yossi
+צ										 ‪}‬
+
+צוות מחקר							struct mehkar
+צ									    }
+  רשצ : סגן				  		  String teamHead  
+  אנליסט : רב״ט						      int analyst
+  מתכנת : סמל						  long programmer
+צ									    ‪}‬
+
+רב״ט דוד : 5					               int david ‪=‬ 5
+רב״ט יוסי : 7				     	               int yossi ‪=‬ 7
+יוסי ודוד קראו למפקד דני				         danny‪(‬yossi‪,‬ david‪)‬
+צוות מחקר במצו״ב כולל את הרשץ אבי, האנליסט דוד והמתכנת גל		struct mehkar mazov‪(‬teamHead ‪=‬ avi‪,‬ analyst ‪=‬ david‪,‬ programmer ‪=‬ gal‪)‬
+
+‪—————————‬
+
+types:
+bool : טוראי
+byte : רב״ט
+short : סמל
+int : סמ״ר
+רס״ל :
+רס״ר :
+רס״מ :
+רס״ב :
+רנ״מ :
+רנ״ג :
+
+float : סג״ם
+double : סג״ן
+סרן : char
+רס״ן : String
+סא״ל :
+אל״מ :
+תא״ל :
+אלוף :
+רא״ל :
+
+קמ״א : long
+קא״ב : long long
+
