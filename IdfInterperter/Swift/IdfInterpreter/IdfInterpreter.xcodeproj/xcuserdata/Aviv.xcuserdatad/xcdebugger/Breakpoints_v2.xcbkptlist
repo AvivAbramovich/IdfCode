@@ -9,13 +9,13 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "IdfInterpreter/main.swift"
-            timestampString = "485367090.502571"
+            filePath = "IdfInterpreter/Frame.swift"
+            timestampString = "485436395.21832"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "main()"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "Frame(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

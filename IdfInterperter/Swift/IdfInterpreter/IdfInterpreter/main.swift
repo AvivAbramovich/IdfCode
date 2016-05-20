@@ -18,16 +18,15 @@ func main(){
     
     //check file extension for ".idf"
     let path = Process.arguments[1]
-    print("path: \(path)")
     
     let url = NSURL(fileURLWithPath: path)
-    
+        
     //opne the file
     do{
-        let textToParse = try NSString(contentsOfURL: url, encoding: NSUTF8StringEncoding)
+        let fileText = try NSString(contentsOfURL: url, encoding: NSUTF8StringEncoding)
+        let text = NSString(string : fileText.stringByReplacingOccurrencesOfString("\n", withString: " "))
+        Frame(text)
         
-        //debug, print file content
-        print(textToParse)
     } catch {
         print("Cannot find file \"\(path)\"")
         return
