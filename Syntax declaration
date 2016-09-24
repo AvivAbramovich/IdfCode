@@ -20,7 +20,7 @@
 רב״ט דוד : 5					               int david ‪=‬ 5
 רב״ט יוסי : 7				     	               int yossi ‪=‬ 7
 יוסי ודוד קראו למפקד דני				         danny‪(‬yossi‪,‬ david‪)‬
-צוות מחקר במצו״ב כולל את הרשץ אבי, האנליסט דוד והמתכנת גל		struct mehkar mazov‪(‬teamHead ‪=‬ avi‪,‬ analyst ‪=‬ david‪,‬ programmer ‪=‬ gal‪)‬
+צוות מחקר בבסמח כולל את הרשץ אבי, האנליסט דוד והמתכנת גל		struct mehkar bsmk(‬teamHead ‪=‬ avi‪,‬ analyst ‪=‬ david‪,‬ programmer ‪=‬ gal‪)‬
 
 ‪—————————‬
 
